@@ -1,0 +1,22 @@
+<svg width="420" height="240" viewBox="0 0 420 240" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="420" height="240" rx="28" fill="#FBF6F2"/>
+  <g transform="translate(0 4)">
+    <path d="M183 58C180 47 183 38 192 31" stroke="#B77A2D" stroke-width="5" stroke-linecap="round"/>
+    <path d="M210 54C207 42 211 30 220 22" stroke="#E14B2D" stroke-width="5" stroke-linecap="round"/>
+    <path d="M237 58C240 46 237 36 229 28" stroke="#B77A2D" stroke-width="5" stroke-linecap="round"/>
+    <circle cx="177" cy="70" r="4" fill="#E14B2D"/>
+    <circle cx="194" cy="62" r="4" fill="#B77A2D"/>
+    <circle cx="225" cy="61" r="4" fill="#E14B2D"/>
+    <circle cx="245" cy="70" r="4" fill="#B77A2D"/>
+    <path d="M147 99C147 77.4609 164.461 60 186 60H234C255.539 60 273 77.4609 273 99V101H147V99Z" fill="#E43622"/>
+    <path d="M137 106H283C283 134.719 259.719 158 231 158H189C160.281 158 137 134.719 137 106Z" fill="#D7261A"/>
+    <path d="M153 111C171 119 189 123 210 123C231 123 249 119 267 111" stroke="#FFEDE5" stroke-width="4" stroke-linecap="round"/>
+    <path d="M148 122H272" stroke="#FFEDE5" stroke-width="4" stroke-linecap="round"/>
+    <path d="M156 133C175 139 192 142 210 142C228 142 245 139 264 133" stroke="#FFEDE5" stroke-width="4" stroke-linecap="round"/>
+    <path d="M285 45L302 11" stroke="#E43622" stroke-width="6" stroke-linecap="round"/>
+    <path d="M296 50L313 16" stroke="#E43622" stroke-width="6" stroke-linecap="round"/>
+    <path d="M132 88C132 88 117 90 112 104C108 115 115 125 128 125" stroke="#B77A2D" stroke-width="5" stroke-linecap="round"/>
+  </g>
+  <text x="210" y="196" text-anchor="middle" fill="#341711" font-family="Georgia, 'Times New Roman', serif" font-size="34" letter-spacing="0.6">Spicee Street</text>
+  <text x="210" y="221" text-anchor="middle" fill="#8B5B4E" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="3.2">TASTE THE DELICIOUS</text>
+</svg>
